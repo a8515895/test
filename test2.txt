@@ -1,2 +1,2 @@
 test2
-dev1 : test2
+dev2 : test2
